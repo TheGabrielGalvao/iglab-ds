@@ -15,11 +15,11 @@ module.exports = {
   "features": {
     "storyStoreV7": true
   },
-  viteFinal: (config, {configType}) => {
+  viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
       config.base = '/iglab-ds/'
     }
-    
+
     return config
   }
 }
