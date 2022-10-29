@@ -6,7 +6,6 @@
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.1",
     "@radix-ui/react-slot": "^1.0.1",
-    "@storybook/storybook-deployer": "^2.8.16",
     "acorn": "^7.4.1",
     "acorn-node": "^1.8.2",
     "acorn-walk": "^7.2.0",
@@ -136,6 +135,7 @@
     "@storybook/addon-links": "^6.5.12",
     "@storybook/builder-vite": "^0.2.4",
     "@storybook/react": "^6.5.12",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/testing-library": "^0.0.13",
     "@types/react": "^18.0.24"
   },
