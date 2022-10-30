@@ -1589,7 +1589,7 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@storybook/addon-a11y@^6.5.12":
+"@storybook/addon-a11y@^6.5.13":
   version "6.5.13"
   resolved "https://registry.yarnpkg.com/@storybook/addon-a11y/-/addon-a11y-6.5.13.tgz#3934b12dc2f3bf7a1a1bc660aa7b84b856bc2b6c"
   integrity sha512-+Tcl/4LWRh3ygLUZFGvkjT42CF/tJcP+kgsIho7i2MxpgZyD6+BUhL9srPZusjbR+uHcHXJ/yxw/vxFQ+UCTLA==
